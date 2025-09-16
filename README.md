@@ -1,7 +1,7 @@
-# Hello!
+Hello!
 
 This is a repository created by *Madison*
 
-## Usuage
+Usuage
 Run this command to execte this application:
 python.filename.py
